@@ -381,6 +381,11 @@ body{
 
 /* Shoes */
 
+/* bag */
+.bag img{
+    padding-top: 10px;
+}
+
 /* footer */
 .foot-sec{
     padding-top:50px;
